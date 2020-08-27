@@ -1,7 +1,5 @@
 # ChristEmbassy
 Official Christ Embassy Facebook page
-# Daystar
-Daystar Facebook page
 <html>
 <head>
 <meta name="viewport" content="width=device-width"/>
